@@ -29,4 +29,12 @@ conda install nextflow
 
 ### Step 2: Running `main.nf` file
 
-To execute `main.nf`, You need to replace the directory in the first line in the `main.nf` file with your current directory
+Download the `main.nf` file in this repo. 
+
+To execute `main.nf`, You need to replace the directory in the first line in the `main.nf` file with your current directory.
+
+After changing the directory you can execute `main.nf` with code below:
+
+```
+nextflow run main.nf
+```
