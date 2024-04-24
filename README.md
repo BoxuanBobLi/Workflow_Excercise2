@@ -27,4 +27,6 @@ Then you will need to install Nextflow in the environment you previously built u
 conda install nextflow
 ```
 
-### Step 2: 
+### Step 2: Running `main.nf` file
+
+To execute `main.nf`, You need to replace the directory in the first line in the `main.nf` file with your current directory
