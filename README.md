@@ -27,6 +27,7 @@ Then you will need to install Nextflow in the environment you previously built u
 conda install nextflow
 ```
 
+
 ### Step 2: Running `main.nf` file
 
 Download the `main.nf` file in this repo. 
@@ -38,6 +39,7 @@ After changing the directory you can execute `main.nf` with code below:
 ```
 nextflow run main.nf
 ```
+
 
 ### Step 3: Viewing results
 
