@@ -38,3 +38,14 @@ After changing the directory you can execute `main.nf` with code below:
 ```
 nextflow run main.nf
 ```
+
+### Step 3: Viewing results
+
+In your current directory, there will be a `results` folder, and in the `results` folder, there are the following folders with corresponding result files:
+
+- FastQC_PreTrim
+- FastP
+- FastQC_PostTrim
+- SKESA
+- QUAST
+- MLST
